@@ -18,7 +18,9 @@ const About = () => {
             </div>
             <div>
               <p>I am passionate about improving the lives of those around me. 
-                I specialize in putting solutions to your problems at your fingertips.</p>  
+                I specialize in putting solutions to your problems at your fingertips.
+                Shoot me an email at elvisnjoroge01@proton.me
+              </p>  
             </div>
           </div>
       </div>

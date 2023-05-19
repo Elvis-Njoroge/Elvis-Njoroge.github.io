@@ -4,7 +4,7 @@ import RealEst from '../assets/projects/realestate.jpg'
 export const data=[
     {
         id:1,
-        name:"React JS Application",
+        name:"Tulewapi Restaurant Advisor",
         image:WorkIm,
         github:"",
         description:"",
@@ -12,7 +12,7 @@ export const data=[
     },
     {
         id:2,
-        name:"React JS Application",
+        name:"P-Bank Project Repository",
         image:RealEst,
         github:"",
         description:"",
@@ -20,20 +20,11 @@ export const data=[
     },
     {
         id:3,
-        name:"React JS Application",
+        name:"School Library Managment System",
         image:WorkIm,
         github:"",
         description:"",
         live:"",
-    },
-    {
-        id:4,
-        name:"React JS Application",
-        image:RealEst,
-        github:"",
-        description:"",
-        live:"",
-    },
-
+    }
 
 ]

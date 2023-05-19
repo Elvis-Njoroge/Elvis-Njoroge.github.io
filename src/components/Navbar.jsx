@@ -11,6 +11,7 @@ import { HiOutlineMail } from 'react-icons/hi';
 import { BsFillPersonLinesFill } from 'react-icons/bs';
 import Logo from '../assets/logo.png';
 import { Link } from 'react-scroll';
+import Resume from '../assets/resume/resume.pdf'
 
 const Navbar = () => {
   const [nav, setNav] = useState(false);
@@ -44,11 +45,11 @@ const Navbar = () => {
             Projects
           </Link>
         </li>
-        <li>
+        {/* <li>
           <Link to='contact' smooth={true} duration={500}>
             Contact
           </Link>
-        </li>
+        </li> */}
       </ul>
 
       {/* Hamburger */}
@@ -87,12 +88,12 @@ const Navbar = () => {
             Projects
           </Link>
         </li>
-        <li className='py-6 text-4xl'>
+        {/* <li className='py-6 text-4xl'>
           {' '}
           <Link onClick={handleClick} to='contact' smooth={true} duration={500}>
             Contact
           </Link>
-        </li>
+        </li> */}
       </ul>
 
       {/* Social icons */}
@@ -114,18 +115,18 @@ const Navbar = () => {
               Github <FaGithub size={30} />
             </a>
           </li>
-          <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#6fc2b0]'>
+          {/* <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#6fc2b0]'>
             <a
               className='flex justify-between items-center w-full text-gray-300'
               href='/'
             >
               Email <HiOutlineMail size={30} />
             </a>
-          </li>
+          </li> */}
           <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#565f69]'>
             <a
               className='flex justify-between items-center w-full text-gray-300'
-              href='/'
+              href={Resume} download
             >
               Resume <BsFillPersonLinesFill size={30} />
             </a>
