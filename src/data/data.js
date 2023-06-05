@@ -1,5 +1,4 @@
-import WorkIm from '../assets/projects/tulewapi.jpg'
-import RealEst from '../assets/projects/realestate.jpg'
+import tulewapi from '../assets/projects/tulewapi.jpg'
 import typefast from '../assets/projects/typefast.png'
 
 export const data=[
