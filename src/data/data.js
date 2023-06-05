@@ -8,7 +8,7 @@ export const data=[
         image:typefast,
         github:"https://github.com/Elvis-Njoroge/typefast",
         live:"https://elvis-njoroge.github.io/typefast/",
-        description:"Live link coming soon"
+        description:"A typing game built on JavaScript using a quote generator API"
     }
 
 ]
