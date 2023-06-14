@@ -34,6 +34,7 @@ const Projects = () => {
                 <span className="text-2xl font bold text-white tracking-wider ">
                   {item.name}
                 </span>
+                <p style={{margin:'15px'}}>{item.description}</p>
                 <div className="pt-8 text-center ">
                   {/* eslint-disable-next-line */}
                   <a href={item.github} target="_blank">
