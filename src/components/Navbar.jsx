@@ -11,7 +11,7 @@ import { HiOutlineMail } from 'react-icons/hi';
 import { BsFillPersonLinesFill } from 'react-icons/bs';
 import Logo from '../assets/logo.png';
 import { Link } from 'react-scroll';
-import Resume from '../assets/resume/resume.pdf'
+import Resume from '../assets/resume/Elvis Njoroge Gitau Resume.pdf'
 
 const Navbar = () => {
   const [nav, setNav] = useState(false);

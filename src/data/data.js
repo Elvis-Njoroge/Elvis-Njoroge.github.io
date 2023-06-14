@@ -16,6 +16,6 @@ export const data=[
         image:jipange,
         github:"https://github.com/Elvis-Njoroge/jipange",
         live:"/",
-        description:"A personal finance app where users can manage their assets, financial goals, expenses and budgets. Buiilt on a React App frontend and a Ruby on Rails backend, using a postrgreql database"
+        description:"A personal finance app where users can manage their assets, financial goals, expenses and budgets. Buiilt on a React App frontend and a Ruby on Rails backend, using a postrgreql database. Live link coming soon. You can have a sneak peak by downloading the zipfile on the github repo and following the instructions on the readme file"
     }
 ]
