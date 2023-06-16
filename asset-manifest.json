@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.css": "/static/css/main.32fc8d1e.css",
-    "main.js": "/static/js/main.e48c5050.js",
+    "main.css": "/static/css/main.c7334b08.css",
+    "main.js": "/static/js/main.200e456a.js",
     "static/media/Ruby.png": "/static/media/Ruby.76df93cf57df266746e9.png",
     "static/media/jipange.png": "/static/media/jipange.c27339ac71b8269d6680.png",
     "static/media/postgresql.png": "/static/media/postgresql.346709d92d82791ad17d.png",
-    "static/media/resume.pdf": "/static/media/resume.1fcb668fc2a966d9626c.pdf",
+    "static/media/Elvis Njoroge Gitau Resume.pdf": "/static/media/Elvis Njoroge Gitau Resume.05c2900aa84643d85536.pdf",
     "static/media/typefast.png": "/static/media/typefast.fd02a7bea5a5787a0c60.png",
     "static/media/react.png": "/static/media/react.0cf951a69d8e58f83f9d.png",
     "static/media/Ruby_On_Rails.png": "/static/media/Ruby_On_Rails.5cfa93edc92874b68047.png",
@@ -16,11 +16,11 @@
     "static/media/css.png": "/static/media/css.69a82c2d9e45c933a9cb.png",
     "static/media/javascript.png": "/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/index.html",
-    "main.32fc8d1e.css.map": "/static/css/main.32fc8d1e.css.map",
-    "main.e48c5050.js.map": "/static/js/main.e48c5050.js.map"
+    "main.c7334b08.css.map": "/static/css/main.c7334b08.css.map",
+    "main.200e456a.js.map": "/static/js/main.200e456a.js.map"
   },
   "entrypoints": [
-    "static/css/main.32fc8d1e.css",
-    "static/js/main.e48c5050.js"
+    "static/css/main.c7334b08.css",
+    "static/js/main.200e456a.js"
   ]
 }
